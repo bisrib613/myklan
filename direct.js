@@ -1,5 +1,5 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.min.js" integrity="sha256-xNzN2a4ltkB44Mc/Jz3pT4iU1cmeR0FkXs4pru/JxaQ=" crossorigin="anonymous"></script>
-<script type="text/javascript">
+
 	//<![CDATA[
 	$(document).ready(function()
 	{
@@ -13,4 +13,4 @@
 	    //ubah google dengan ads direct link
 	    window.open('https://www.trustedcpmrevenue.com/qg8q3jgz?key=12b89a93dd3d80c6a8f239fb821bc4b0', '_blank');
 	});
-//]]</script>
+//]]
