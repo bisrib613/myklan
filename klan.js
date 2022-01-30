@@ -1,1 +1,10 @@
-<script type='text/javascript' src='//pl16520223.trustedcpmrevenue.com/80/7f/de/807fde02d7e38aa6ed8761fcaf9dcd8d.js'></script>
+<script type="text/javascript">
+	atOptions = {
+		'key' : 'ec7cad2f974765fe73f39986fa5879ab',
+		'format' : 'iframe',
+		'height' : 60,
+		'width' : 468,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.effectivedisplaycontent.com/ec7cad2f974765fe73f39986fa5879ab/invoke.js"></scr' + 'ipt>');
+</script>
