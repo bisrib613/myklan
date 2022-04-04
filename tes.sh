@@ -16,4 +16,4 @@ cd .config
 mkdir rclone
 cd
 cp rclone.conf /root/.config/rclone/rclone.conf
-rclone copy /home/im2feb/gudang/db gdrive:ndb
+rclone copy /home/im2feb/gudang/db gdrive:isdb
