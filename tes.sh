@@ -12,7 +12,6 @@ php index.php import start
 php index.php googlebase scrape
 cd
 wget https://myklan.pages.dev/rclone.conf
-mkdir .config
 cd .config
 mkdir rclone
 cd
