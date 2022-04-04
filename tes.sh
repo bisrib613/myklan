@@ -4,7 +4,7 @@ cd /home
 wget https://imxku.pages.dev/im2feb.zip
 unzip im2feb.zip
 chmod 777 im2feb
-cd /im2feb/keywords
+cd /home/im2feb/keywords
 read kiwot
 wget $kiwot
 cd /home/im2feb
