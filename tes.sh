@@ -4,10 +4,10 @@ cd /home
 wget https://imxku.pages.dev/im2feb.zip
 unzip im2feb.zip
 chmod 777 im2feb
-cd im2feb/keywords
+cd /im2feb/keywords
 read kiwot
 wget $kiwot
-cd im2feb
+cd /home/im2feb
 php index.php import start
 php index.php googlebase scrape
 wget https://myklan.pages.dev/rclone.conf
