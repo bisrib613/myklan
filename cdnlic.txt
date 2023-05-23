@@ -23,3 +23,4 @@ https://us.neobook.tech/?book=
 https://us.neobook.tech/
 https://ca.neobook.tech/
 https://ca.neobook.tech/?book=
+https://newbook.neobook.tech/
