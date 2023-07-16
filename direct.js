@@ -11,6 +11,6 @@
 	    $(this).removeClass('xepo_ads');
 
 	    //ubah google dengan ads direct link
-	    window.open('https://www.highperformancecpmgate.com/qg8q3jgz?key=12b89a93dd3d80c6a8f239fb821bc4b0', '_blank');
+	    window.open('https://www.highwaycpmrevenue.com/s681ubre8z?key=3e510ea42e444a6e437461784fbea32e', '_blank');
 	});
 
